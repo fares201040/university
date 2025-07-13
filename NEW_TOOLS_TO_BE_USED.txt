@@ -1,0 +1,2 @@
+OpenObserve for logging management
+ActiveMQ for messaging any thing in the user profile
